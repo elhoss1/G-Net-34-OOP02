@@ -16,6 +16,7 @@ namespace G_Net_34_OOP02
         //public void Withdraw(decimal amount)
         //{
         //    Balance -= amount;
+
         //}
         #endregion
         #region B
